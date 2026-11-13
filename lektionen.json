@@ -1,4 +1,670 @@
 {
  "version": 1,
- "lessons": []
+ "lessons": [
+  {
+   "id": "lighthouse-unit-2-s-216-217",
+   "name": "Lighthouse – Unit 2 – S. 216–217",
+   "words": [
+    {
+     "id": "lighthouse-unit-2-s-216-217--hometown",
+     "en": "hometown",
+     "de": "die Heimatstadt",
+     "sEn": "Manchester is my hometown, but now I live in London.",
+     "sDe": "Manchester ist meine Heimatstadt, aber jetzt wohne ich in London."
+    },
+    {
+     "id": "lighthouse-unit-2-s-216-217--fashion",
+     "en": "fashion",
+     "de": "die Mode, die Fashion",
+     "sEn": "I'd like to design my own fashion one day.",
+     "sDe": "Ich würde gern eines Tages meine eigene Mode entwerfen."
+    },
+    {
+     "id": "lighthouse-unit-2-s-216-217--kindness",
+     "en": "kindness",
+     "de": "die Güte, die Freundlichkeit",
+     "sEn": "Thank you for your kindness when I was ill.",
+     "sDe": "Danke für deine Freundlichkeit, als ich krank war."
+    },
+    {
+     "id": "lighthouse-unit-2-s-216-217--kind",
+     "en": "kind",
+     "de": "freundlich, nett",
+     "sEn": "Our new neighbours are very kind to us.",
+     "sDe": "Unsere neuen Nachbarn sind sehr nett zu uns."
+    },
+    {
+     "id": "lighthouse-unit-2-s-216-217--reason",
+     "en": "reason",
+     "de": "der Grund, die Begründung",
+     "sEn": "What was the reason why you left the party so early?",
+     "sDe": "Was war der Grund dafür, dass du die Party so früh verlassen hast?"
+    },
+    {
+     "id": "lighthouse-unit-2-s-216-217--for-this-reason",
+     "en": "for this reason",
+     "de": "aus diesem Grund",
+     "sEn": "It was raining. For this reason we stayed at home.",
+     "sDe": "Es hat geregnet. Aus diesem Grund sind wir zu Hause geblieben."
+    },
+    {
+     "id": "lighthouse-unit-2-s-216-217--to-support",
+     "en": "to support",
+     "de": "unterstützen",
+     "sEn": "My parents always support my dreams and plans.",
+     "sDe": "Meine Eltern unterstützen immer meine Träume und Pläne."
+    },
+    {
+     "id": "lighthouse-unit-2-s-216-217--support",
+     "en": "support",
+     "de": "die Unterstützung",
+     "sEn": "Thanks to your support, we won the game.",
+     "sDe": "Dank eurer Unterstützung haben wir das Spiel gewonnen."
+    },
+    {
+     "id": "lighthouse-unit-2-s-216-217--supporter",
+     "en": "supporter",
+     "de": "der Anhänger, die Anhängerin, der Fan",
+     "sEn": "My uncle is a big Manchester United supporter.",
+     "sDe": "Mein Onkel ist ein großer Fan von Manchester United."
+    },
+    {
+     "id": "lighthouse-unit-2-s-216-217--disability",
+     "en": "disability",
+     "de": "die Behinderung",
+     "sEn": "Ms Adu has a disability, so she uses a wheelchair.",
+     "sDe": "Frau Adu hat eine Behinderung, deshalb benutzt sie einen Rollstuhl."
+    },
+    {
+     "id": "lighthouse-unit-2-s-216-217--disabled",
+     "en": "disabled",
+     "de": "(körper)behindert",
+     "sEn": "The new sports hall has toilets for disabled people.",
+     "sDe": "Die neue Sporthalle hat Toiletten für behinderte Menschen."
+    },
+    {
+     "id": "lighthouse-unit-2-s-216-217--by",
+     "en": "by",
+     "de": "von (geschrieben von)",
+     "sEn": "I got a funny text by Omar this morning.",
+     "sDe": "Ich habe heute Morgen eine lustige SMS von Omar bekommen."
+    },
+    {
+     "id": "lighthouse-unit-2-s-216-217--by-bus",
+     "en": "by bus",
+     "de": "mit dem Bus",
+     "sEn": "Most of my friends go to school by bus.",
+     "sDe": "Die meisten meiner Freunde fahren mit dem Bus zur Schule."
+    },
+    {
+     "id": "lighthouse-unit-2-s-216-217--by-bike",
+     "en": "by bike",
+     "de": "mit dem Rad",
+     "sEn": "In summer I always go to training by bike.",
+     "sDe": "Im Sommer fahre ich immer mit dem Rad zum Training."
+    },
+    {
+     "id": "lighthouse-unit-2-s-216-217--to-pay-by-card",
+     "en": "to pay by card",
+     "de": "mit Karte bezahlen",
+     "sEn": "Can I pay by card, please?",
+     "sDe": "Kann ich bitte mit Karte bezahlen?"
+    },
+    {
+     "id": "lighthouse-unit-2-s-216-217--by-email",
+     "en": "by email",
+     "de": "per E-Mail",
+     "sEn": "Can you send me the photos by email?",
+     "sDe": "Kannst du mir die Fotos per E-Mail schicken?"
+    },
+    {
+     "id": "lighthouse-unit-2-s-216-217--to-decide",
+     "en": "to decide",
+     "de": "beschließen, sich entscheiden",
+     "sEn": "Let's decide together what to do this weekend.",
+     "sDe": "Lass uns zusammen entscheiden, was wir dieses Wochenende machen."
+    },
+    {
+     "id": "lighthouse-unit-2-s-216-217--to-decide-on",
+     "en": "to decide on",
+     "de": "sich entscheiden für",
+     "sEn": "We can't decide on a name for our band.",
+     "sDe": "Wir können uns nicht für einen Namen für unsere Band entscheiden."
+    },
+    {
+     "id": "lighthouse-unit-2-s-216-217--attractive",
+     "en": "attractive",
+     "de": "attraktiv",
+     "sEn": "The new shopping centre is really attractive for young people.",
+     "sDe": "Das neue Einkaufszentrum ist für junge Leute richtig attraktiv."
+    },
+    {
+     "id": "lighthouse-unit-2-s-216-217--tight",
+     "en": "tight",
+     "de": "knapp, eng (anliegend)",
+     "sEn": "These jeans are too tight. I need a bigger size.",
+     "sDe": "Diese Jeans ist zu eng. Ich brauche eine größere Größe."
+    },
+    {
+     "id": "lighthouse-unit-2-s-216-217--tights",
+     "en": "tights",
+     "de": "die Strumpfhose",
+     "sEn": "In winter my sister often wears tights under her skirt.",
+     "sDe": "Im Winter trägt meine Schwester oft eine Strumpfhose unter ihrem Rock."
+    },
+    {
+     "id": "lighthouse-unit-2-s-216-217--to-prefer",
+     "en": "to prefer",
+     "de": "vorziehen, lieber mögen",
+     "sEn": "I prefer juice to cola.",
+     "sDe": "Ich mag Saft lieber als Cola."
+    },
+    {
+     "id": "lighthouse-unit-2-s-216-217--baggy",
+     "en": "baggy",
+     "de": "weit (geschnitten), sackig",
+     "sEn": "He always wears baggy jeans and a big hoodie.",
+     "sDe": "Er trägt immer weite Jeans und einen großen Hoodie."
+    },
+    {
+     "id": "lighthouse-unit-2-s-216-217--baggy-trousers",
+     "en": "baggy trousers",
+     "de": "die Schlabberhose",
+     "sEn": "Baggy trousers are really comfortable for skating.",
+     "sDe": "Schlabberhosen sind zum Skaten richtig bequem."
+    },
+    {
+     "id": "lighthouse-unit-2-s-216-217--skirt",
+     "en": "skirt",
+     "de": "der Rock",
+     "sEn": "She bought a red skirt for the school party.",
+     "sDe": "Sie hat sich für die Schulparty einen roten Rock gekauft."
+    },
+    {
+     "id": "lighthouse-unit-2-s-216-217--light",
+     "en": "light",
+     "de": "hell, leicht",
+     "sEn": "I'd like a light blue T-shirt, please.",
+     "sDe": "Ich hätte gern ein hellblaues T-Shirt, bitte."
+    },
+    {
+     "id": "lighthouse-unit-2-s-216-217--patterned",
+     "en": "patterned",
+     "de": "gemustert",
+     "sEn": "I don't like patterned shirts. I prefer plain ones.",
+     "sDe": "Ich mag keine gemusterten Hemden. Ich mag lieber einfarbige."
+    },
+    {
+     "id": "lighthouse-unit-2-s-216-217--pattern",
+     "en": "pattern",
+     "de": "das Muster",
+     "sEn": "The pattern on your hoodie looks really cool.",
+     "sDe": "Das Muster auf deinem Hoodie sieht richtig cool aus."
+    },
+    {
+     "id": "lighthouse-unit-2-s-216-217--old-fashioned",
+     "en": "old-fashioned",
+     "de": "altmodisch",
+     "sEn": "My grandma thinks my clothes are strange, and I think hers are old-fashioned.",
+     "sDe": "Meine Oma findet meine Kleidung komisch, und ich finde ihre altmodisch."
+    },
+    {
+     "id": "lighthouse-unit-2-s-216-217--plain",
+     "en": "plain",
+     "de": "einfach, schlicht",
+     "sEn": "She wore a plain black dress, but it looked great.",
+     "sDe": "Sie trug ein schlichtes schwarzes Kleid, aber es sah toll aus."
+    },
+    {
+     "id": "lighthouse-unit-2-s-216-217--style",
+     "en": "style",
+     "de": "der Stil, die Mode, die Art",
+     "sEn": "I really like your style. Where do you buy your clothes?",
+     "sDe": "Ich mag deinen Stil sehr. Wo kaufst du deine Kleidung?"
+    },
+    {
+     "id": "lighthouse-unit-2-s-216-217--to-be-in-style",
+     "en": "to be in style",
+     "de": "in Mode sein",
+     "sEn": "My mum says these shoes will be in style again soon.",
+     "sDe": "Meine Mutter sagt, dass diese Schuhe bald wieder in Mode sein werden."
+    },
+    {
+     "id": "lighthouse-unit-2-s-216-217--to-be-out-of-style",
+     "en": "to be out of style",
+     "de": "aus der Mode sein",
+     "sEn": "Do you think skinny jeans will be out of style next year?",
+     "sDe": "Glaubst du, dass Röhrenjeans nächstes Jahr aus der Mode sein werden?"
+    },
+    {
+     "id": "lighthouse-unit-2-s-216-217--clothing",
+     "en": "clothing",
+     "de": "die Kleidung",
+     "sEn": "You need warm clothing for the school trip to Scotland.",
+     "sDe": "Für die Klassenfahrt nach Schottland braucht ihr warme Kleidung."
+    },
+    {
+     "id": "lighthouse-unit-2-s-216-217--a-piece-of-clothing",
+     "en": "a piece of clothing",
+     "de": "ein Kleidungsstück",
+     "sEn": "A scarf is a piece of clothing that keeps you warm.",
+     "sDe": "Ein Schal ist ein Kleidungsstück, das dich warm hält."
+    },
+    {
+     "id": "lighthouse-unit-2-s-216-217--percentage",
+     "en": "percentage",
+     "de": "der Anteil, der Prozentsatz",
+     "sEn": "What percentage of your pocket money do you spend on clothes?",
+     "sDe": "Welchen Anteil deines Taschengelds gibst du für Kleidung aus?"
+    },
+    {
+     "id": "lighthouse-unit-2-s-216-217--litre",
+     "en": "litre",
+     "de": "der Liter",
+     "sEn": "I drink about one litre of water every day.",
+     "sDe": "Ich trinke jeden Tag ungefähr einen Liter Wasser."
+    }
+   ]
+  },
+  {
+   "id": "lighthouse-unit-2-s-218",
+   "name": "Lighthouse – Unit 2 – S. 218",
+   "words": [
+    {
+     "id": "lighthouse-unit-2-s-218--about",
+     "en": "about",
+     "de": "ungefähr, über",
+     "sEn": "We usually get up at about 9 o'clock on Sundays.",
+     "sDe": "Sonntags stehen wir normalerweise ungefähr um 9 Uhr auf."
+    },
+    {
+     "id": "lighthouse-unit-2-s-218--material",
+     "en": "material",
+     "de": "der Stoff, das Material",
+     "sEn": "I need some nice material for my costume.",
+     "sDe": "Ich brauche einen schönen Stoff für mein Kostüm."
+    },
+    {
+     "id": "lighthouse-unit-2-s-218--bit",
+     "en": "bit",
+     "de": "das Teil, das Stück(chen)",
+     "sEn": "This is the hard bit of the task.",
+     "sDe": "Das ist der schwierige Teil der Aufgabe."
+    },
+    {
+     "id": "lighthouse-unit-2-s-218--cotton",
+     "en": "cotton",
+     "de": "die Baumwolle",
+     "sEn": "This T-shirt is made of cotton.",
+     "sDe": "Dieses T-Shirt ist aus Baumwolle."
+    },
+    {
+     "id": "lighthouse-unit-2-s-218--silk",
+     "en": "silk",
+     "de": "die Seide",
+     "sEn": "Silk comes from insects called silkworms.",
+     "sDe": "Seide kommt von Insekten, die Seidenraupen heißen."
+    },
+    {
+     "id": "lighthouse-unit-2-s-218--quick",
+     "en": "quick",
+     "de": "schnell",
+     "sEn": "Can I ask you a quick question?",
+     "sDe": "Kann ich dir eine schnelle Frage stellen?"
+    },
+    {
+     "id": "lighthouse-unit-2-s-218--quickly",
+     "en": "quickly",
+     "de": "schnell (Adverb)",
+     "sEn": "He finished his homework very quickly.",
+     "sDe": "Er hat seine Hausaufgaben sehr schnell erledigt."
+    },
+    {
+     "id": "lighthouse-unit-2-s-218--brand",
+     "en": "brand",
+     "de": "die (Produkt-)Marke",
+     "sEn": "What brand is your new bike?",
+     "sDe": "Welche Marke ist dein neues Fahrrad?"
+    },
+    {
+     "id": "lighthouse-unit-2-s-218--to-reuse",
+     "en": "to reuse",
+     "de": "wiederverwenden",
+     "sEn": "Don't throw the box away. We can reuse it.",
+     "sDe": "Wirf die Schachtel nicht weg. Wir können sie wiederverwenden."
+    },
+    {
+     "id": "lighthouse-unit-2-s-218--to-recycle",
+     "en": "to recycle",
+     "de": "recyceln, wiederverwerten",
+     "sEn": "We recycle all our plastic bottles.",
+     "sDe": "Wir recyceln alle unsere Plastikflaschen."
+    },
+    {
+     "id": "lighthouse-unit-2-s-218--to-upcycle",
+     "en": "to upcycle",
+     "de": "upcyceln",
+     "sEn": "In art class we want to upcycle old jeans into bags.",
+     "sDe": "Im Kunstunterricht wollen wir alte Jeans zu Taschen upcyceln."
+    },
+    {
+     "id": "lighthouse-unit-2-s-218--to-repair",
+     "en": "to repair",
+     "de": "reparieren",
+     "sEn": "My dad can repair almost every bike.",
+     "sDe": "Mein Vater kann fast jedes Fahrrad reparieren."
+    },
+    {
+     "id": "lighthouse-unit-2-s-218--repair",
+     "en": "repair",
+     "de": "die Reparatur",
+     "sEn": "The repair of my phone was really expensive.",
+     "sDe": "Die Reparatur meines Handys war richtig teuer."
+    },
+    {
+     "id": "lighthouse-unit-2-s-218--to-throw",
+     "en": "to throw",
+     "de": "werfen",
+     "sEn": "Don't throw these clothes away. Take them to a charity shop!",
+     "sDe": "Wirf diese Kleider nicht weg. Bring sie in einen Secondhandladen!",
+     "forms": [
+      "throw",
+      "threw",
+      "thrown"
+     ]
+    },
+    {
+     "id": "lighthouse-unit-2-s-218--he-threw",
+     "en": "he threw",
+     "de": "er warf",
+     "sEn": "He threw the ball and it hit our neighbours' window.",
+     "sDe": "Er warf den Ball und er traf das Fenster unserer Nachbarn.",
+     "forms": [
+      "throw",
+      "threw",
+      "thrown"
+     ]
+    },
+    {
+     "id": "lighthouse-unit-2-s-218--to-produce",
+     "en": "to produce",
+     "de": "produzieren",
+     "sEn": "They produce sports shoes in this factory.",
+     "sDe": "In dieser Fabrik produzieren sie Sportschuhe."
+    },
+    {
+     "id": "lighthouse-unit-2-s-218--product",
+     "en": "product",
+     "de": "das Produkt",
+     "sEn": "People still don't know our new product.",
+     "sDe": "Die Leute kennen unser neues Produkt immer noch nicht."
+    },
+    {
+     "id": "lighthouse-unit-2-s-218--producer",
+     "en": "producer",
+     "de": "der Produzent, die Produzentin",
+     "sEn": "The producer of the film is from Manchester.",
+     "sDe": "Der Produzent des Films kommt aus Manchester."
+    }
+   ]
+  },
+  {
+   "id": "lighthouse-unit-2-s-218-219",
+   "name": "Lighthouse – Unit 2 – S. 218–219",
+   "words": [
+    {
+     "id": "lighthouse-unit-2-s-218-219--friendship",
+     "en": "friendship",
+     "de": "die Freundschaft",
+     "sEn": "My friendship with Sue is very important to me.",
+     "sDe": "Meine Freundschaft mit Sue ist mir sehr wichtig."
+    },
+    {
+     "id": "lighthouse-unit-2-s-218-219--you",
+     "en": "you / they / people",
+     "de": "man",
+     "sEn": "You never know what will happen.",
+     "sDe": "Man weiß nie, was passieren wird."
+    },
+    {
+     "id": "lighthouse-unit-2-s-218-219--advice",
+     "en": "advice",
+     "de": "der Rat, die Ratschläge",
+     "sEn": "My teacher gave me some good advice.",
+     "sDe": "Mein Lehrer hat mir ein paar gute Ratschläge gegeben."
+    },
+    {
+     "id": "lighthouse-unit-2-s-218-219--a-piece-of-advice",
+     "en": "a piece of advice",
+     "de": "ein Ratschlag",
+     "sEn": "Here's a piece of advice: always check your answers.",
+     "sDe": "Hier ist ein Ratschlag: Überprüfe immer deine Antworten."
+    },
+    {
+     "id": "lighthouse-unit-2-s-218-219--advice-column",
+     "en": "advice column",
+     "de": "der Kummerkasten, die Ratgeberspalte",
+     "sEn": "She wrote a letter to the advice column of a magazine.",
+     "sDe": "Sie hat einen Brief an den Kummerkasten einer Zeitschrift geschrieben."
+    },
+    {
+     "id": "lighthouse-unit-2-s-218-219--you-needn-t",
+     "en": "you needn't",
+     "de": "du musst nicht, du brauchst nicht",
+     "sEn": "I can do the exercise alone. You needn't help me.",
+     "sDe": "Ich kann die Übung allein machen. Du musst mir nicht helfen."
+    },
+    {
+     "id": "lighthouse-unit-2-s-218-219--might",
+     "en": "might",
+     "de": "könnte (vielleicht)",
+     "sEn": "Take an umbrella. It might rain later.",
+     "sDe": "Nimm einen Schirm mit. Es könnte später regnen."
+    },
+    {
+     "id": "lighthouse-unit-2-s-218-219--enemy",
+     "en": "enemy",
+     "de": "der Feind, die Feindin",
+     "sEn": "My brother is my worst enemy when we play board games.",
+     "sDe": "Mein Bruder ist mein schlimmster Feind, wenn wir Brettspiele spielen."
+    },
+    {
+     "id": "lighthouse-unit-2-s-218-219--frenemy",
+     "en": "frenemy",
+     "de": "der falsche Freund, die falsche Freundin",
+     "sEn": "A frenemy is part friend, part enemy.",
+     "sDe": "Ein falscher Freund ist halb Freund, halb Feind."
+    },
+    {
+     "id": "lighthouse-unit-2-s-218-219--to-be-in-love-with",
+     "en": "to be in love with",
+     "de": "verliebt sein in",
+     "sEn": "My cousin seems to be in love with the new girl in her class.",
+     "sDe": "Meine Cousine scheint in das neue Mädchen in ihrer Klasse verliebt zu sein."
+    },
+    {
+     "id": "lighthouse-unit-2-s-218-219--to-fall-in-love-with",
+     "en": "to fall in love with",
+     "de": "sich verlieben in",
+     "sEn": "It's easy to fall in love with a city like Manchester.",
+     "sDe": "Es ist leicht, sich in eine Stadt wie Manchester zu verlieben.",
+     "forms": [
+      "fall",
+      "fell",
+      "fallen"
+     ]
+    },
+    {
+     "id": "lighthouse-unit-2-s-218-219--they",
+     "en": "they",
+     "de": "er/sie (geschlechtsneutral)",
+     "sEn": "Chris doesn't identify as a boy or a girl, so we say \"they\".",
+     "sDe": "Chris identifiziert sich nicht als Junge oder Mädchen, deshalb sagen wir „they“."
+    },
+    {
+     "id": "lighthouse-unit-2-s-218-219--to-identify",
+     "en": "to identify",
+     "de": "(sich) identifizieren, erkennen",
+     "sEn": "Can you identify the boy in this photo?",
+     "sDe": "Kannst du den Jungen auf diesem Foto erkennen?"
+    },
+    {
+     "id": "lighthouse-unit-2-s-218-219--forever",
+     "en": "forever / for ever",
+     "de": "für immer, ewig (lange)",
+     "sEn": "The accident changed her life forever.",
+     "sDe": "Der Unfall hat ihr Leben für immer verändert."
+    },
+    {
+     "id": "lighthouse-unit-2-s-218-219--best-friend-forever",
+     "en": "best friend forever / BFF",
+     "de": "der beste Freund / die beste Freundin für immer",
+     "sEn": "Lena is my best friend forever.",
+     "sDe": "Lena ist meine beste Freundin für immer."
+    },
+    {
+     "id": "lighthouse-unit-2-s-218-219--situation",
+     "en": "situation",
+     "de": "die Situation",
+     "sEn": "We were in a really difficult situation.",
+     "sDe": "Wir waren in einer richtig schwierigen Situation."
+    }
+   ]
+  },
+  {
+   "id": "lighthouse-unit-2-s-220",
+   "name": "Lighthouse – Unit 2 – S. 220",
+   "words": [
+    {
+     "id": "lighthouse-unit-2-s-220--to-be-nerdy",
+     "en": "to be nerdy",
+     "de": "ein Nerd sein, streberhaft sein",
+     "sEn": "It's okay to be nerdy about computers.",
+     "sDe": "Es ist okay, ein Computer-Nerd zu sein."
+    },
+    {
+     "id": "lighthouse-unit-2-s-220--to-say-sorry-to",
+     "en": "to say sorry to",
+     "de": "sich entschuldigen bei",
+     "sEn": "You should say sorry to your brother.",
+     "sDe": "Du solltest dich bei deinem Bruder entschuldigen.",
+     "forms": [
+      "say",
+      "said",
+      "said"
+     ]
+    },
+    {
+     "id": "lighthouse-unit-2-s-220--to-trust",
+     "en": "to trust",
+     "de": "vertrauen",
+     "sEn": "Be careful. You shouldn't trust everybody.",
+     "sDe": "Sei vorsichtig. Du solltest nicht jedem vertrauen."
+    },
+    {
+     "id": "lighthouse-unit-2-s-220--trust",
+     "en": "trust",
+     "de": "das Vertrauen",
+     "sEn": "Too much trust in others can be a problem.",
+     "sDe": "Zu viel Vertrauen in andere kann ein Problem sein."
+    },
+    {
+     "id": "lighthouse-unit-2-s-220--strict",
+     "en": "strict",
+     "de": "streng",
+     "sEn": "Our maths teacher is very strict about homework.",
+     "sDe": "Unser Mathelehrer ist bei den Hausaufgaben sehr streng."
+    },
+    {
+     "id": "lighthouse-unit-2-s-220--to-be-allowed-to",
+     "en": "to be allowed to",
+     "de": "dürfen",
+     "sEn": "You won't be allowed to use your phone in the test.",
+     "sDe": "Ihr werdet im Test euer Handy nicht benutzen dürfen."
+    },
+    {
+     "id": "lighthouse-unit-2-s-220--to-have-a-crush-on",
+     "en": "to have a crush on",
+     "de": "in jn. verknallt sein",
+     "sEn": "I think you have a crush on Mia!",
+     "sDe": "Ich glaube, du bist in Mia verknallt!"
+    },
+    {
+     "id": "lighthouse-unit-2-s-220--crush",
+     "en": "crush",
+     "de": "die Schwärmerei, der Schwarm",
+     "sEn": "Everybody knows that he is her crush.",
+     "sDe": "Alle wissen, dass er ihr Schwarm ist."
+    },
+    {
+     "id": "lighthouse-unit-2-s-220--to-deal-with",
+     "en": "to deal with",
+     "de": "klarkommen mit, umgehen mit",
+     "sEn": "Let's deal with this problem first.",
+     "sDe": "Lass uns zuerst mit diesem Problem klarkommen.",
+     "forms": [
+      "deal",
+      "dealt",
+      "dealt"
+     ]
+    },
+    {
+     "id": "lighthouse-unit-2-s-220--annoying",
+     "en": "annoying",
+     "de": "ärgerlich, nervig",
+     "sEn": "I find it very annoying that the trains are always late.",
+     "sDe": "Ich finde es sehr ärgerlich, dass die Züge immer zu spät sind."
+    },
+    {
+     "id": "lighthouse-unit-2-s-220--annoyed",
+     "en": "annoyed",
+     "de": "verärgert, genervt",
+     "sEn": "I'm often annoyed about my little brother.",
+     "sDe": "Ich bin oft genervt von meinem kleinen Bruder."
+    },
+    {
+     "id": "lighthouse-unit-2-s-220--to-annoy",
+     "en": "to annoy",
+     "de": "ärgern, nerven",
+     "sEn": "Stop it! You annoy me with that song.",
+     "sDe": "Hör auf! Du nervst mich mit diesem Lied."
+    },
+    {
+     "id": "lighthouse-unit-2-s-220--may",
+     "en": "may",
+     "de": "vielleicht, kann (möglicherweise)",
+     "sEn": "This may not be such a good idea.",
+     "sDe": "Das ist vielleicht keine so gute Idee."
+    },
+    {
+     "id": "lighthouse-unit-2-s-220--to-be-ashamed-of",
+     "en": "to be ashamed of / to feel ashamed of",
+     "de": "sich schämen für",
+     "sEn": "I feel ashamed of the stupid things I said.",
+     "sDe": "Ich schäme mich für die dummen Dinge, die ich gesagt habe."
+    },
+    {
+     "id": "lighthouse-unit-2-s-220--to-shout",
+     "en": "to shout",
+     "de": "rufen, schreien",
+     "sEn": "Don't shout! The baby is sleeping.",
+     "sDe": "Schrei nicht! Das Baby schläft."
+    },
+    {
+     "id": "lighthouse-unit-2-s-220--to-shout-at",
+     "en": "to shout at",
+     "de": "jn. anschreien",
+     "sEn": "Please don't shout at me.",
+     "sDe": "Bitte schrei mich nicht an."
+    },
+    {
+     "id": "lighthouse-unit-2-s-220--probably",
+     "en": "probably",
+     "de": "wahrscheinlich",
+     "sEn": "You're probably right.",
+     "sDe": "Du hast wahrscheinlich recht."
+    }
+   ]
+  }
+ ]
 }
