@@ -1,0 +1,262 @@
+# Lektion: Basis – Lesen: Fragewörter
+who ; wer ; Who is your best friend? ; Wer ist dein bester Freund?
+whose ; wessen, wem gehört ; Whose phone is this? ; Wem gehört dieses Handy?
+what ; was ; What did you do at the weekend? ; Was hast du am Wochenende gemacht?
+which ; welche(r, s) (Auswahl) ; Which T-shirt do you like better, the red one or the blue one? ; Welches T-Shirt gefällt dir besser, das rote oder das blaue?
+where ; wo, wohin ; Where are you going after school? ; Wohin gehst du nach der Schule?
+when ; wann ; When does the film start? ; Wann fängt der Film an?
+why ; warum ; Why are you late again? ; Warum kommst du schon wieder zu spät?
+how ; wie ; How do you get to school? ; Wie kommst du zur Schule?
+how much ; wie viel (nicht zählbar) ; How much money do you need? ; Wie viel Geld brauchst du?
+how many ; wie viele (zählbar) ; How many brothers and sisters have you got? ; Wie viele Geschwister hast du?
+how long ; wie lange ; How long have you lived here? ; Wie lange wohnst du schon hier?
+how often ; wie oft ; How often do you go swimming? ; Wie oft gehst du schwimmen?
+how old ; wie alt ; How old is your sister? ; Wie alt ist deine Schwester?
+how far ; wie weit ; How far is it to the station? ; Wie weit ist es bis zum Bahnhof?
+what time ; um wie viel Uhr ; What time does the bus leave? ; Um wie viel Uhr fährt der Bus ab?
+what kind of ; was für ein(e) ; What kind of music do you like? ; Was für Musik magst du?
+
+# Lektion: Basis – Lesen: Präpositionen
+at ; um (bei Uhrzeiten) ; The film starts at eight o'clock. ; Der Film fängt um acht Uhr an.
+on ; am (bei Tagen und Daten) ; We have PE on Monday. ; Wir haben am Montag Sport.
+in ; im (bei Monaten, Jahreszeiten, Jahren) ; My birthday is in May. ; Mein Geburtstag ist im Mai.
+at home ; zu Hause ; I stayed at home because I was ill. ; Ich bin zu Hause geblieben, weil ich krank war.
+at school ; in der Schule ; We can't use our phones at school. ; Wir dürfen in der Schule unsere Handys nicht benutzen.
+at the weekend ; am Wochenende ; What are you doing at the weekend? ; Was machst du am Wochenende?
+in the morning ; morgens, am Morgen ; I always have a shower in the morning. ; Ich dusche morgens immer.
+at night ; nachts ; Owls hunt at night. ; Eulen jagen nachts.
+on the bus ; im Bus ; I often read on the bus. ; Ich lese oft im Bus.
+under ; unter ; The cat is sleeping under the table. ; Die Katze schläft unter dem Tisch.
+above ; über, oberhalb ; There is a big poster above my bed. ; Über meinem Bett hängt ein großes Poster.
+between ; zwischen ; The bank is between the café and the supermarket. ; Die Bank ist zwischen dem Café und dem Supermarkt.
+next to ; neben ; Can I sit next to you? ; Darf ich mich neben dich setzen?
+behind ; hinter ; The ball is behind the sofa. ; Der Ball ist hinter dem Sofa.
+in front of ; vor (Ort) ; Let's meet in front of the cinema. ; Lass uns vor dem Kino treffen.
+opposite ; gegenüber ; Our school is opposite the park. ; Unsere Schule liegt gegenüber vom Park.
+through ; durch ; We walked through the forest. ; Wir sind durch den Wald gelaufen.
+across ; über (hinüber) ; Be careful when you walk across the street. ; Pass auf, wenn du über die Straße gehst.
+along ; entlang ; We cycled along the river. ; Wir sind den Fluss entlang geradelt.
+into ; in … hinein ; She jumped into the pool. ; Sie ist in den Pool gesprungen.
+out of ; aus … heraus ; He took his phone out of his pocket. ; Er hat sein Handy aus der Tasche genommen.
+during ; während ; Please don't talk during the test. ; Bitte redet während des Tests nicht.
+until ; bis (zeitlich) ; The shop is open until six o'clock. ; Der Laden hat bis sechs Uhr geöffnet.
+before ; vor (zeitlich) ; Wash your hands before lunch. ; Wasch dir vor dem Mittagessen die Hände.
+after ; nach (zeitlich) ; After school I usually meet my friends. ; Nach der Schule treffe ich mich meistens mit meinen Freunden.
+without ; ohne ; I can't live without music. ; Ich kann nicht ohne Musik leben.
+about ; über (ein Thema) ; This book is about a girl and her horse. ; Dieses Buch handelt von einem Mädchen und seinem Pferd.
+like ; wie (Vergleich) ; You look like your mum. ; Du siehst aus wie deine Mutter.
+
+# Lektion: Basis – Lesen: Mengen und Verneinung
+some ; etwas, einige (in bejahten Sätzen) ; I need some milk for my cereal. ; Ich brauche etwas Milch für mein Müsli.
+any ; (irgend)welche (in Fragen und Verneinungen) ; Have you got any pets? ; Hast du Haustiere?
+much ; viel (nicht zählbar) ; I haven't got much time today. ; Ich habe heute nicht viel Zeit.
+many ; viele (zählbar) ; There are many tourists in London in summer. ; Im Sommer gibt es viele Touristen in London.
+a lot of / lots of ; viel, viele ; We had a lot of fun at the party. ; Wir hatten viel Spaß auf der Party.
+a few ; ein paar (zählbar) ; I've got a few friends in Berlin. ; Ich habe ein paar Freunde in Berlin.
+a little ; ein bisschen (nicht zählbar) ; Can I have a little sugar in my tea? ; Kann ich ein bisschen Zucker in meinen Tee haben?
+enough ; genug ; We haven't got enough chairs for everybody. ; Wir haben nicht genug Stühle für alle.
+too much ; zu viel ; Don't eat too much chocolate! ; Iss nicht zu viel Schokolade!
+too many ; zu viele ; There were too many people on the bus. ; Es waren zu viele Leute im Bus.
+every ; jede(r, s) ; I walk my dog every evening. ; Ich gehe jeden Abend mit meinem Hund raus.
+each ; jede(r, s) einzelne ; Each student gets a worksheet. ; Jeder Schüler bekommt ein Arbeitsblatt.
+all ; alle ; All my friends like this game. ; Alle meine Freunde mögen dieses Spiel.
+both ; beide ; Both my parents work in Hanover. ; Meine Eltern arbeiten beide in Hannover.
+something ; etwas ; I want to tell you something. ; Ich möchte dir etwas erzählen.
+anything ; (irgend)etwas (in Fragen und Verneinungen) ; Did you see anything? ; Hast du irgendetwas gesehen?
+nothing ; nichts ; There is nothing in the fridge. ; Im Kühlschrank ist nichts.
+somebody / someone ; jemand ; Somebody is at the door. ; Da ist jemand an der Tür.
+nobody / no one ; niemand ; Nobody answered the phone. ; Niemand ist ans Telefon gegangen.
+everybody / everyone ; jeder, alle ; Everybody likes pizza. ; Alle mögen Pizza.
+everything ; alles ; Thanks for everything! ; Danke für alles!
+somewhere ; irgendwo(hin) ; I left my keys somewhere in the house. ; Ich habe meine Schlüssel irgendwo im Haus liegen lassen.
+nowhere ; nirgendwo ; There is nowhere to sit. ; Es gibt nirgendwo einen Platz zum Sitzen.
+either ; auch nicht ; I don't like horror films. – I don't either. ; Ich mag keine Horrorfilme. – Ich auch nicht.
+
+# Lektion: Basis – Lesen: Signalwörter
+always ; immer ; I always walk to school. ; Ich gehe immer zu Fuß zur Schule.
+usually ; normalerweise, meistens ; We usually have dinner at seven. ; Wir essen normalerweise um sieben zu Abend.
+often ; oft ; My brother often plays computer games. ; Mein Bruder spielt oft Computerspiele.
+sometimes ; manchmal ; Sometimes I help my dad in the kitchen. ; Manchmal helfe ich meinem Vater in der Küche.
+every day ; jeden Tag ; I practise the guitar every day. ; Ich übe jeden Tag Gitarre.
+now ; jetzt ; I can't talk now, I'm doing my homework. ; Ich kann jetzt nicht reden, ich mache gerade meine Hausaufgaben.
+at the moment ; im Moment, gerade ; At the moment we are watching a film. ; Im Moment schauen wir einen Film.
+right now ; genau jetzt, gerade ; Look! It's snowing right now! ; Schau! Es schneit gerade!
+yesterday ; gestern ; Yesterday we went to the zoo. ; Gestern sind wir in den Zoo gegangen.
+last week ; letzte Woche ; Last week I was ill. ; Letzte Woche war ich krank.
+ago ; vor (Zeitraum in der Vergangenheit) ; I met her two years ago. ; Ich habe sie vor zwei Jahren kennengelernt.
+never ; nie, noch nie ; I have never been to London. ; Ich war noch nie in London.
+ever ; jemals, schon mal ; Have you ever eaten sushi? ; Hast du schon mal Sushi gegessen?
+already ; schon ; I have already finished my homework. ; Ich habe meine Hausaufgaben schon fertig.
+yet ; schon (in Fragen) ; Have you finished yet? ; Bist du schon fertig?
+not yet ; noch nicht ; Are you ready? – Not yet. ; Bist du fertig? – Noch nicht.
+just ; gerade (eben) ; I have just seen Tom in town. ; Ich habe Tom gerade in der Stadt gesehen.
+since ; seit (Zeitpunkt) ; I have lived here since 2019. ; Ich wohne seit 2019 hier.
+for ; seit (Zeitraum) ; I have played the piano for three years. ; Ich spiele seit drei Jahren Klavier.
+so far ; bis jetzt, bisher ; So far the holiday has been great. ; Bis jetzt war der Urlaub toll.
+recently ; in letzter Zeit ; Have you seen any good films recently? ; Hast du in letzter Zeit gute Filme gesehen?
+tomorrow ; morgen ; Tomorrow we're going to visit my grandma. ; Morgen besuchen wir meine Oma.
+next week ; nächste Woche ; Next week we're going to write a test. ; Nächste Woche schreiben wir einen Test.
+soon ; bald ; I hope we can meet again soon. ; Ich hoffe, wir können uns bald wiedersehen.
+later ; später ; I'll call you later. ; Ich rufe dich später an.
+in the future ; in Zukunft ; In the future, cars will drive themselves. ; In Zukunft werden Autos von selbst fahren.
+
+# Lektion: Basis – Lesen: Unregelmäßige Verben
+to be ; sein ; I want to be a vet one day. ; Ich möchte eines Tages Tierarzt sein. ; be - was/were - been
+to have ; haben ; We have a big garden. ; Wir haben einen großen Garten. ; have - had - had
+to do ; tun, machen ; What do you do in your free time? ; Was machst du in deiner Freizeit? ; do - did - done
+to go ; gehen, fahren ; Let's go to the cinema tonight. ; Lass uns heute Abend ins Kino gehen. ; go - went - gone
+to come ; kommen ; Can you come to my party? ; Kannst du zu meiner Party kommen? ; come - came - come
+to get ; bekommen ; I get a lot of messages every day. ; Ich bekomme jeden Tag viele Nachrichten. ; get - got - got
+to make ; machen, herstellen ; Can you make a cake for the party? ; Kannst du einen Kuchen für die Party machen? ; make - made - made
+to take ; nehmen, mitnehmen ; Take your umbrella, it's raining. ; Nimm deinen Regenschirm mit, es regnet. ; take - took - taken
+to give ; geben ; Can you give me your number? ; Kannst du mir deine Nummer geben? ; give - gave - given
+to see ; sehen ; I can't see the board. ; Ich kann die Tafel nicht sehen. ; see - saw - seen
+to say ; sagen ; What did you say? ; Was hast du gesagt? ; say - said - said
+to tell ; erzählen, sagen ; Can you tell me the way to the station? ; Kannst du mir den Weg zum Bahnhof sagen? ; tell - told - told
+to know ; wissen, kennen ; Do you know the answer? ; Weißt du die Antwort? ; know - knew - known
+to think ; denken, glauben ; I think it's a good idea. ; Ich glaube, das ist eine gute Idee. ; think - thought - thought
+to find ; finden ; I can't find my keys. ; Ich kann meine Schlüssel nicht finden. ; find - found - found
+to leave ; verlassen, abfahren ; We leave the house at half past seven. ; Wir verlassen das Haus um halb acht. ; leave - left - left
+to feel ; (sich) fühlen ; I feel tired today. ; Ich fühle mich heute müde. ; feel - felt - felt
+to put ; legen, stellen ; Put your bag under the table. ; Stell deine Tasche unter den Tisch. ; put - put - put
+to bring ; (mit)bringen ; Can you bring some crisps to the party? ; Kannst du ein paar Chips zur Party mitbringen? ; bring - brought - brought
+to buy ; kaufen ; I want to buy new trainers. ; Ich will neue Turnschuhe kaufen. ; buy - bought - bought
+to pay ; bezahlen ; I'll pay for the drinks. ; Ich bezahle die Getränke. ; pay - paid - paid
+to eat ; essen ; We eat a lot of pasta at home. ; Wir essen zu Hause viele Nudeln. ; eat - ate - eaten
+to drink ; trinken ; You should drink more water. ; Du solltest mehr Wasser trinken. ; drink - drank - drunk
+to run ; rennen, laufen ; I run in the park every Sunday. ; Ich laufe jeden Sonntag im Park. ; run - ran - run
+to swim ; schwimmen ; Can you swim? ; Kannst du schwimmen? ; swim - swam - swum
+to write ; schreiben ; Write the new words in your exercise book. ; Schreib die neuen Wörter in dein Heft. ; write - wrote - written
+to read ; lesen ; I read a chapter every night. ; Ich lese jeden Abend ein Kapitel. ; read - read - read
+to speak ; sprechen ; Do you speak French? ; Sprichst du Französisch? ; speak - spoke - spoken
+to hear ; hören ; Can you hear the music? ; Kannst du die Musik hören? ; hear - heard - heard
+to meet ; treffen, kennenlernen ; Let's meet at the station. ; Lass uns am Bahnhof treffen. ; meet - met - met
+to sleep ; schlafen ; I can't sleep when it's hot. ; Ich kann nicht schlafen, wenn es heiß ist. ; sleep - slept - slept
+to wake up ; aufwachen ; I usually wake up at six. ; Ich wache normalerweise um sechs auf. ; wake - woke - woken
+to sit ; sitzen, sich setzen ; Come and sit next to me! ; Komm und setz dich neben mich! ; sit - sat - sat
+to stand ; stehen ; Don't stand in front of the TV! ; Steh nicht vor dem Fernseher! ; stand - stood - stood
+to wear ; tragen (Kleidung) ; In winter I wear a warm hat. ; Im Winter trage ich eine warme Mütze. ; wear - wore - worn
+to win ; gewinnen ; I hope we win the match. ; Ich hoffe, wir gewinnen das Spiel. ; win - won - won
+to lose ; verlieren ; Don't lose your ticket! ; Verlier deine Fahrkarte nicht! ; lose - lost - lost
+to begin ; beginnen ; The lesson can begin now. ; Der Unterricht kann jetzt beginnen. ; begin - began - begun
+to forget ; vergessen ; Don't forget your homework! ; Vergiss deine Hausaufgaben nicht! ; forget - forgot - forgotten
+to understand ; verstehen ; I don't understand this word. ; Ich verstehe dieses Wort nicht. ; understand - understood - understood
+to send ; schicken ; Send me a photo! ; Schick mir ein Foto! ; send - sent - sent
+to spend ; verbringen, ausgeben (Geld) ; We spend our holidays at the sea. ; Wir verbringen unsere Ferien am Meer. ; spend - spent - spent
+to sell ; verkaufen ; They sell ice cream at the beach. ; Am Strand verkaufen sie Eis. ; sell - sold - sold
+to teach ; unterrichten, beibringen ; Can you teach me this trick? ; Kannst du mir diesen Trick beibringen? ; teach - taught - taught
+to catch ; fangen, erwischen ; Run, or we won't catch the bus! ; Lauf, sonst erwischen wir den Bus nicht! ; catch - caught - caught
+to fall ; fallen ; Be careful, don't fall! ; Pass auf, fall nicht hin! ; fall - fell - fallen
+to fly ; fliegen ; Many birds fly south in winter. ; Viele Vögel fliegen im Winter nach Süden. ; fly - flew - flown
+to drive ; (Auto) fahren ; My mum can drive a bus. ; Meine Mutter kann einen Bus fahren. ; drive - drove - driven
+to ride ; reiten, (Rad) fahren ; I ride my bike to school. ; Ich fahre mit dem Rad zur Schule. ; ride - rode - ridden
+to build ; bauen ; Let's build a tree house! ; Lass uns ein Baumhaus bauen! ; build - built - built
+to break ; (zer)brechen, kaputt machen ; Be careful, don't break the glass! ; Pass auf, mach das Glas nicht kaputt! ; break - broke - broken
+to choose ; (aus)wählen ; You can choose a film for tonight. ; Du darfst einen Film für heute Abend aussuchen. ; choose - chose - chosen
+to grow ; wachsen ; Tomatoes grow well in the sun. ; Tomaten wachsen gut in der Sonne. ; grow - grew - grown
+to hold ; halten ; Can you hold my bag for a moment? ; Kannst du kurz meine Tasche halten? ; hold - held - held
+to keep ; behalten ; You can keep the book. ; Du kannst das Buch behalten. ; keep - kept - kept
+to let ; lassen ; Let me help you. ; Lass mich dir helfen. ; let - let - let
+to lend ; (ver)leihen ; Can you lend me your pen? ; Kannst du mir deinen Stift leihen? ; lend - lent - lent
+to cut ; schneiden ; Cut the apple in half. ; Schneide den Apfel in zwei Hälften. ; cut - cut - cut
+to hit ; schlagen, treffen ; Try to hit the ball with your racket. ; Versuch, den Ball mit dem Schläger zu treffen. ; hit - hit - hit
+to hurt ; verletzen, wehtun ; Did you hurt your foot? ; Hast du dir den Fuß verletzt? ; hurt - hurt - hurt
+to show ; zeigen ; Can you show me your new room? ; Kannst du mir dein neues Zimmer zeigen? ; show - showed - shown
+to steal ; stehlen ; Somebody wants to steal my bike. ; Jemand will mein Fahrrad stehlen. ; steal - stole - stolen
+to throw ; werfen ; Throw the ball to me! ; Wirf mir den Ball zu! ; throw - threw - thrown
+to become ; werden ; I want to become a pilot. ; Ich will Pilot werden. ; become - became - become
+to draw ; zeichnen ; Can you draw a horse? ; Kannst du ein Pferd zeichnen? ; draw - drew - drawn
+to sing ; singen ; We sing in the school choir. ; Wir singen im Schulchor. ; sing - sang - sung
+to shut ; schließen, zumachen ; Please shut the door. ; Bitte mach die Tür zu. ; shut - shut - shut
+
+# Lektion: Basis – Schreiben: Verbindungswörter
+but ; aber ; I like dogs, but I'm scared of big ones. ; Ich mag Hunde, aber vor großen habe ich Angst.
+or ; oder ; Do you want tea or juice? ; Möchtest du Tee oder Saft?
+because ; weil ; I'm tired because I went to bed late. ; Ich bin müde, weil ich spät ins Bett gegangen bin.
+so ; also, deshalb ; It was raining, so we stayed inside. ; Es hat geregnet, deshalb sind wir drinnen geblieben.
+that's why ; deshalb, darum ; I love animals. That's why I want to be a vet. ; Ich liebe Tiere. Deshalb will ich Tierarzt werden.
+although ; obwohl ; We went swimming although it was cold. ; Wir sind schwimmen gegangen, obwohl es kalt war.
+when ; als, wenn ; When I got home, my sister was asleep. ; Als ich nach Hause kam, hat meine Schwester geschlafen.
+if ; wenn, falls ; If it rains, we'll go to the cinema. ; Wenn es regnet, gehen wir ins Kino.
+while ; während (Bindewort) ; I listen to music while I do my homework. ; Ich höre Musik, während ich meine Hausaufgaben mache.
+before ; bevor ; Brush your teeth before you go to bed. ; Putz dir die Zähne, bevor du ins Bett gehst.
+after ; nachdem ; After we had lunch, we went to the beach. ; Nachdem wir zu Mittag gegessen hatten, sind wir zum Strand gegangen.
+until ; bis (Bindewort) ; Wait here until I come back. ; Warte hier, bis ich zurückkomme.
+as soon as ; sobald ; Call me as soon as you get home. ; Ruf mich an, sobald du zu Hause bist.
+also ; auch (im Satz) ; I also have a cat. ; Ich habe auch eine Katze.
+too ; auch (am Satzende) ; I'd like an ice cream too. ; Ich möchte auch ein Eis.
+as well ; auch, ebenfalls ; My brother plays football as well. ; Mein Bruder spielt auch Fußball.
+however ; jedoch, allerdings ; The hotel was nice. However, the food was terrible. ; Das Hotel war schön. Das Essen war allerdings schrecklich.
+for example ; zum Beispiel ; I like fruit, for example apples and bananas. ; Ich mag Obst, zum Beispiel Äpfel und Bananen.
+instead of ; statt, anstatt ; Let's walk instead of taking the bus. ; Lass uns laufen, statt den Bus zu nehmen.
+that ; dass ; I think that you are right. ; Ich glaube, dass du recht hast.
+who ; der, die, das (bei Personen) ; I have a friend who lives in Ireland. ; Ich habe eine Freundin, die in Irland wohnt.
+which ; der, die, das (bei Dingen) ; This is the book which I told you about. ; Das ist das Buch, von dem ich dir erzählt habe.
+
+# Lektion: Basis – Schreiben: Reihenfolge
+first ; zuerst ; First we had breakfast. ; Zuerst haben wir gefrühstückt.
+then ; dann ; Then we went to the beach. ; Dann sind wir zum Strand gegangen.
+after that ; danach ; After that we had an ice cream. ; Danach haben wir ein Eis gegessen.
+next ; als Nächstes ; Next we visited the castle. ; Als Nächstes haben wir die Burg besichtigt.
+a few minutes later ; ein paar Minuten später ; A few minutes later the police arrived. ; Ein paar Minuten später kam die Polizei.
+suddenly ; plötzlich ; Suddenly the lights went out. ; Plötzlich ging das Licht aus.
+at first ; zuerst, anfangs ; At first I was scared, but then it was fun. ; Anfangs hatte ich Angst, aber dann hat es Spaß gemacht.
+in the beginning ; am Anfang ; In the beginning the game was boring. ; Am Anfang war das Spiel langweilig.
+in the end ; am Ende, schließlich ; In the end we found the way home. ; Am Ende haben wir den Weg nach Hause gefunden.
+finally ; schließlich, endlich ; Finally the bus arrived. ; Endlich kam der Bus.
+at last ; endlich ; At last the holidays are here! ; Endlich sind Ferien!
+one day ; eines Tages ; One day a strange letter arrived. ; Eines Tages kam ein seltsamer Brief.
+the next day ; am nächsten Tag ; The next day we went home. ; Am nächsten Tag sind wir nach Hause gefahren.
+meanwhile ; währenddessen, inzwischen ; Meanwhile, Tom was waiting at the station. ; Währenddessen wartete Tom am Bahnhof.
+luckily ; zum Glück ; Luckily nobody was hurt. ; Zum Glück wurde niemand verletzt.
+unfortunately ; leider ; Unfortunately it rained all day. ; Leider hat es den ganzen Tag geregnet.
+
+# Lektion: Basis – Schreiben: Satzbausteine
+I think ; ich finde, ich glaube ; I think football is more exciting than tennis. ; Ich finde, Fußball ist spannender als Tennis.
+in my opinion ; meiner Meinung nach ; In my opinion, school should start later. ; Meiner Meinung nach sollte die Schule später anfangen.
+I agree ; ich stimme zu ; I agree with you. ; Ich stimme dir zu.
+I don't agree ; ich stimme nicht zu ; I don't agree with Tom. ; Ich stimme Tom nicht zu.
+I'm not sure ; ich bin nicht sicher ; I'm not sure if I can come. ; Ich bin nicht sicher, ob ich kommen kann.
+I'd like to ; ich würde gern, ich möchte ; I'd like to visit Scotland one day. ; Ich würde gern eines Tages Schottland besuchen.
+I'm good at ; ich bin gut in ; I'm good at maths. ; Ich bin gut in Mathe.
+I'm interested in ; ich interessiere mich für ; I'm interested in history. ; Ich interessiere mich für Geschichte.
+my favourite ; mein(e) Lieblings- ; My favourite food is pizza. ; Mein Lieblingsessen ist Pizza.
+there is ; es gibt (Einzahl) ; There is a park near my house. ; Es gibt einen Park in der Nähe meines Hauses.
+there are ; es gibt (Mehrzahl) ; There are 29 students in my class. ; In meiner Klasse gibt es 29 Schüler.
+it looks like ; es sieht aus wie ; It looks like a castle. ; Es sieht aus wie eine Burg.
+it seems ; es scheint ; It seems that nobody is at home. ; Es scheint, dass niemand zu Hause ist.
+bigger than ; größer als ; My room is bigger than my sister's room. ; Mein Zimmer ist größer als das Zimmer meiner Schwester.
+more interesting than ; interessanter als ; Books are more interesting than films. ; Bücher sind interessanter als Filme.
+the best ; der, die, das beste ; This is the best day of my life! ; Das ist der beste Tag meines Lebens!
+the most beautiful ; der, die, das schönste ; Venice is the most beautiful city I know. ; Venedig ist die schönste Stadt, die ich kenne.
+as tall as ; genauso groß wie ; I'm as tall as my dad now. ; Ich bin jetzt genauso groß wie mein Vater.
+not as fast as ; nicht so schnell wie ; My bike is not as fast as yours. ; Mein Fahrrad ist nicht so schnell wie deins.
+I'm going to ; ich werde (geplant) ; I'm going to visit my cousin at the weekend. ; Am Wochenende werde ich meinen Cousin besuchen.
+I have to ; ich muss ; I have to tidy my room. ; Ich muss mein Zimmer aufräumen.
+you should ; du solltest ; You should go to bed earlier. ; Du solltest früher ins Bett gehen.
+you mustn't ; du darfst nicht ; You mustn't use your phone in class. ; Du darfst im Unterricht dein Handy nicht benutzen.
+can I ; darf ich, kann ich ; Can I open the window, please? ; Darf ich bitte das Fenster öffnen?
+could you ; könntest du ; Could you help me, please? ; Könntest du mir bitte helfen?
+what about ; wie wäre es mit ; What about a picnic on Sunday? ; Wie wäre es mit einem Picknick am Sonntag?
+let's ; lass uns ; Let's go swimming! ; Lass uns schwimmen gehen!
+it's fun to ; es macht Spaß zu ; It's fun to play in a band. ; Es macht Spaß, in einer Band zu spielen.
+I'm looking forward to ; ich freue mich auf ; I'm looking forward to the holidays. ; Ich freue mich auf die Ferien.
+on the one hand ; einerseits ; On the one hand, the city is exciting. ; Einerseits ist die Stadt spannend.
+on the other hand ; andererseits ; On the other hand, it is very loud. ; Andererseits ist sie sehr laut.
+
+# Lektion: Basis – Schreiben: E-Mail und Brief
+Dear ; Liebe(r) (Anrede im Brief) ; Dear Lisa, thank you for your letter. ; Liebe Lisa, danke für deinen Brief.
+Hi ; Hallo ; Hi everybody, I'm the new student. ; Hallo zusammen, ich bin der neue Schüler.
+How are you? ; Wie geht es dir? ; Hi Sam, how are you? I'm fine. ; Hallo Sam, wie geht es dir? Mir geht es gut.
+thanks for your email ; danke für deine E-Mail ; Thanks for your email and the photos. ; Danke für deine E-Mail und die Fotos.
+I hope you are well ; ich hoffe, es geht dir gut ; I hope you are well and enjoy the summer. ; Ich hoffe, es geht dir gut und du genießt den Sommer.
+I'm writing to tell you ; ich schreibe dir, um dir zu erzählen ; I'm writing to tell you about my holidays. ; Ich schreibe dir, um dir von meinen Ferien zu erzählen.
+guess what ; stell dir vor, rate mal ; Guess what! We've got a puppy! ; Stell dir vor! Wir haben einen Welpen!
+by the way ; übrigens ; By the way, are you coming to the party? ; Übrigens, kommst du zur Party?
+please write back soon ; bitte schreib bald zurück ; Please write back soon and tell me your news. ; Bitte schreib bald zurück und erzähl mir deine Neuigkeiten.
+write soon ; schreib bald ; That's all for today. Write soon! ; Das war's für heute. Schreib bald!
+see you soon ; bis bald ; See you soon at the party! ; Bis bald auf der Party!
+I can't wait to see you ; ich freue mich riesig, dich zu sehen ; I can't wait to see you in July! ; Ich kann es kaum erwarten, dich im Juli zu sehen!
+best wishes ; viele Grüße ; Best wishes, your friend Mia ; Viele Grüße, deine Freundin Mia
+love ; alles Liebe (Briefschluss) ; See you on Friday! Love, Mia ; Bis Freitag! Alles Liebe, Mia
+yours sincerely ; mit freundlichen Grüßen ; Thank you for your help. Yours sincerely, Tom Baker ; Vielen Dank für Ihre Hilfe. Mit freundlichen Grüßen, Tom Baker
