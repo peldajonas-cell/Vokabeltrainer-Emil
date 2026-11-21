@@ -174,6 +174,7 @@ label.btn{user-select:none;-webkit-user-select:none}
 <script>
 (function(){
 "use strict";
+const KIDNAME = "emil";
 const KEY = "wortkasten-emil.v1";
 const MODES = [
   {id:"karte",    name:"Karteikarte",       dir:"Englisch → Deutsch", group:"leicht"},
@@ -851,11 +852,17 @@ function pSettings(){
   </section>
   <section class="card"><h3>PIN</h3><button class="btn" data-act="pin-change">PIN ändern</button></section>
   <section class="card"><h3>Sicherung</h3>
-    <p class="small muted">Alles liegt nur auf diesem iPad. Kopiere ab und zu den Sicherungscode, z. B. in eine Notiz. Damit lässt sich alles wiederherstellen.</p>
+    <p class="small muted">Alles liegt nur auf diesem iPad. Speichere ab und zu eine Sicherungsdatei, z. B. über „In Dateien sichern“. Damit lässt sich alles wiederherstellen.</p>
+    <div class="row"><button class="btn" data-act="backup-file">Sicherungsdatei speichern</button>
+    <label class="btn">Sicherungsdatei laden<input type="file" accept=".json,application/json,text/plain" data-file="restore" hidden></label></div>
+    ${ui.pending?`<div class="warn">Datei geladen: ${ui.pending.words.length} Wörter, ${ui.pending.log.length} Antworten${ui.pending.log.length?`, zuletzt gelernt am ${new Date(Math.max(...ui.pending.log.map(e=>e.t))).toLocaleDateString("de-DE")}`:""}.</div>
+    <div class="row"><button class="btn danger armed" data-act="restore-file">Aktuellen Stand ersetzen</button><button class="btn ghost" data-act="restore-cancel">Abbrechen</button></div>`:""}
+    <details><summary class="small muted">Alternativ: Sicherungscode (Text)</summary>
     <button class="btn" data-act="backup">Sicherungscode kopieren</button>
     <textarea id="bk-out" class="in" readonly hidden></textarea>
     <label class="f">Sicherungscode einfügen<textarea id="bk-in" class="in" style="min-height:80px"></textarea></label>
     <button class="btn ${armedB?"danger armed":""}" data-act="restore">${armedB?"Aktuellen Stand ersetzen?":"Wiederherstellen"}</button>
+    </details>
   </section>
   <section class="card"><h3>Lernstand zurücksetzen</h3><p class="small muted">Löscht alle Fächer und die Statistik. Die Vokabeln bleiben.</p>
     <button class="btn danger ${armedR?"armed":""}" data-act="reset">${armedR?"Wirklich alles zurücksetzen?":"Zurücksetzen"}</button></section>`;
@@ -1025,11 +1032,31 @@ document.addEventListener("click",e=>{
       catch(err){toast("Der Code ist ungültig oder unvollständig.")}
       break;
     }
+    case "backup-file": saveBackupFile(); break;
+    case "restore-file": if(ui.pending)applyBackup(ui.pending,"Wiederhergestellt"); break;
+    case "restore-cancel": ui.pending=null; render(); break;
     case "reset": {
       if(ui.confirm!=="reset"){ui.confirm="reset";render();break}
       S.prog={};S.log=[];S.sessions=[];ui.confirm=null;save();toast("Lernstand zurückgesetzt"); break;
     }
   }
+});
+/* ---------- Sicherungsdatei ---------- */
+function backupName(){const d=new Date(),z=n=>String(n).padStart(2,"0");return `wortkasten-${KIDNAME}-${d.getFullYear()}-${z(d.getMonth()+1)}-${z(d.getDate())}.json`}
+function saveBackupFile(){
+  const name=backupName(), file=new File([JSON.stringify(S)],name,{type:"application/json"});
+  try{if(navigator.canShare&&navigator.canShare({files:[file]})){navigator.share({files:[file],title:name}).then(()=>toast("Sicherungsdatei gespeichert"),err=>{if(!err||err.name!=="AbortError")download(file)});return}}catch(err){}
+  download(file);
+}
+function download(file){const a=document.createElement("a");a.href=URL.createObjectURL(file);a.download=file.name;document.body.appendChild(a);a.click();setTimeout(()=>{URL.revokeObjectURL(a.href);a.remove()},1500);toast("Sicherungsdatei gespeichert")}
+function parseBackup(txt){txt=String(txt||"").trim();let o;try{o=JSON.parse(txt)}catch(e){o=JSON.parse(decodeURIComponent(escape(atob(txt))))}if(!o||!Array.isArray(o.words))throw 0;o.log=o.log||[];return o}
+function applyBackup(o,msg){S=fix(o);save();ui.pending=null;ui.confirm=null;lastSync=0;syncLessons();toast(msg)}
+document.addEventListener("change",async e=>{
+  const k=e.target.dataset&&e.target.dataset.file; if(!k) return;
+  const f=e.target.files&&e.target.files[0]; e.target.value=""; if(!f) return;
+  let o; try{o=parseBackup(await f.text())}catch(err){toast("Das ist keine Sicherungsdatei.");return}
+  if(k==="migrate") applyBackup(o,"Lernstand übernommen");
+  else {ui.pending=o; render();}
 });
 document.addEventListener("change",e=>{
   const k=e.target.dataset.change; if(!k) return;
